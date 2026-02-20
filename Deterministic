@@ -1,0 +1,21 @@
+# Hi, I'm Clinton | Senior Data Scientist & AI Trainer 🤖
+
+Dedicated to bridging the gap between **complex business logic** and **Generative AI reasoning**. I specialize in creating deterministic, high-computational Python workflows and fine-tuning LLM reasoning chains.
+
+### 🛠 Technical Expertise
+- **Core Stack:** Python (Expert), SQL (Advanced), R.
+- **DS Libraries:** Pandas, NumPy, Scipy, Scikit-learn, Statsmodels, Matplotlib, Seaborn.
+- **GenAI/LLM:** LangChain, RAG, Prompt Engineering, Vector DBs (Chroma/Pinecone).
+- **Domain Focus:** [e.g., Financial Modeling, Healthcare Analytics, Supply Chain Optimization].
+
+### 🎯 Mindrift-Specific Focus
+- **Deterministic Modeling:** 100% reproducible notebooks with fixed seeds and unit testing.
+- **Reasoning Chains:** Designing end-to-end pipelines from raw data ingestion to predictive deployment.
+- **Advanced Statistics:** Expertise in hypothesis testing, Yeo-Johnson transforms, and causal inference.
+
+---
+### 📂 Featured "Reasoning" Repositories
+*(See below for details on these)*
+1. **[Deterministic-DS-Challenge]**: A multi-stage logistics optimization problem.
+2. **[LLM-Logic-Validator]**: Evaluating RAG performance using custom statistical metrics.
+3. **[Scalable-Python-EDA]**: Processing 500k+ records using vectorization (not loops).
